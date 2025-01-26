@@ -1,5 +1,3 @@
-# Ignoere jar files
-*.jar
 
 # Ignore vscode file
 .vscode
