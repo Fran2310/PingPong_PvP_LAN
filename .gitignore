@@ -1,0 +1,8 @@
+# Ignoere jar files
+*.jar
+
+# Ignore vscode file
+.vscode
+
+# Ignore bin carpet
+bin/
