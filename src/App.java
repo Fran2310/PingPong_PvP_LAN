@@ -1,5 +1,5 @@
-import co.edu.uptc.presenters.ClientPresenter;
-import co.edu.uptc.presenters.ServerPresenter;
+import uni.prog.umc.presenters.ClientPresenter;
+import uni.prog.umc.presenters.ServerPresenter;
 
 public class App {
     public static void main(String[] args) throws Exception {
